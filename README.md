@@ -1,7 +1,11 @@
 # HandMove
 mbti 손동작으로 사용자의 움직임감지
 
-<h2>개발 추진 배경<h2>
+<h2>데이터 흐름도<h2>
   
-![image](https://user-images.githubusercontent.com/79887255/182769527-d6790c26-c06e-4712-aef1-ac3d202f8542.png)
+![image](https://user-images.githubusercontent.com/79887255/182769646-ff2fc69c-53ff-4b4b-9f5b-da08d55ec669.png)
+
+<h2>알고리즘<h2>
+  
+![image](https://user-images.githubusercontent.com/79887255/182769749-262452b0-5966-44c5-b36b-c02b4d00af08.png)
 
