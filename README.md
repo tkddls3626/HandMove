@@ -15,3 +15,8 @@ mbti 손동작으로 사용자의 움직임감지
 
   
 ![image](https://user-images.githubusercontent.com/79887255/182770017-dedd8570-b96c-418b-84bf-46f3286f7bdc.png)
+
+  
+<h2> ERD <h2>
+
+![image](https://user-images.githubusercontent.com/79887255/182770128-0124b1d5-4ec5-400e-87b5-ff09f83b6ce5.png)
